@@ -1,0 +1,49 @@
+.calendar-day{
+    position: relative;
+}
+
+.calendarDay{
+    z-index: 1;
+    display: block;
+    box-sizing: border-box;
+    padding-top: 75px;
+    text-align: center;
+    margin: 15px;
+    
+    font-size: 35px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.calendarDay:hover{
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#Now{
+    border: 1px solid rgb(43, 168, 209);
+    border-radius: 50%;
+}   
+.calendarDayButton{
+    display: block;
+    position: relative;
+    padding-top: 50px;
+    text-align: center;
+    margin: 15px;
+    margin-top: 50px;
+    border-style: none;
+    background-color: #242424;
+    font-size: 35px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.Zwolnienie{
+    font-size: 10px;
+    margin: 15px;
+    margin-top: 50px;
+    padding: 10px;
+    text-align: center;
+}

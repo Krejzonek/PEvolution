@@ -1,0 +1,13 @@
+.DaysOfWeek{
+    display: block;
+    box-sizing: border-box;
+    padding-top: 20px;
+    text-align: center;
+    margin: 15px;
+    
+    font-size: 35px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    
+}
